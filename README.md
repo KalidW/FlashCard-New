@@ -8,6 +8,6 @@
 1. Run `npm install`.
 
 Use `npm start` to run the application.
-A default value of `http://localhost:5000` is used 
+A default value of `http://localhost:3000` is used 
 
 
